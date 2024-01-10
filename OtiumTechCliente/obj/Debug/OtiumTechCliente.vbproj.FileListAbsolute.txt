@@ -1,0 +1,226 @@
+c:\users\20010607\documents\visual studio 2013\Projects\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCam.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDespesa.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConFun.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDes.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmFin.resources
+C:\Users\20010607\Desktop\OtiumTechCliente (1)\OtiumTechCliente\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\20010607\Desktop\OtiumTechCliente (1)\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\20010607\Desktop\OtiumTechCliente (1)\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\20010607\Desktop\OtiumTechCliente (1)\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\20010607\Desktop\OtiumTechCliente (1)\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConDes.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmImp.resources
+C:\Users\20010607\Desktop\OtiumTechCliente\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCam.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCam.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConDes.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConFun.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDes.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmFin.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmImp.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.SplashScreen.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmLogin.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCam.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConDes.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConFun.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDes.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmFin.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmImp.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmLogin.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.SplashScreen.resources
+C:\Users\testelab\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCam.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConDes.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConFun.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDes.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmFin.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmImp.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmLogin.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.SplashScreen.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialCliente.resources
+C:\Users\20010513\Documents\Visual Studio 2013\Projects\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialFuncionario.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCam.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConDes.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConFun.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDes.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmFin.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmImp.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialCliente.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialFuncionario.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmLogin.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.SplashScreen.resources
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\20010513\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCam.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConDes.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConFun.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDes.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmFin.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmImp.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialCliente.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialFuncionario.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmLogin.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.SplashScreen.resources
+C:\Users\jrosi\Downloads\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialCliente.resources
+C:\Users\20010607\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialFuncionario.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCam.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConDes.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConFun.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDes.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmFin.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmImp.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialCliente.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialFuncionario.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmLogin.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.SplashScreen.resources
+C:\Users\kecek\Desktop\PTI da galera\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe.config
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.exe
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.xml
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.pdb
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.exe
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.pdb
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\bin\Debug\OtiumTechCliente.xml
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbprojResolveAssemblyReference.cache
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadCli.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadDes.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCadFun.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCam.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConDes.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConFun.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmCam.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmConCli.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.Resources.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmDes.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmFin.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmImp.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicial.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialCliente.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmInicialFuncionario.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.FrmLogin.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.SplashScreen.resources
+C:\Users\20010456\Desktop\OtiumTechCliente_V2\OtiumTechCliente\obj\Debug\OtiumTechCliente.vbproj.GenerateResource.Cache
